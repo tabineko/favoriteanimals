@@ -20,3 +20,5 @@ Goal - I want contributors to help me list everyone's favorite songs.
 お気に入りの曲を教えてください！
 
 # List of Hobby
+1. INVOKE
+2. Beyond the time
