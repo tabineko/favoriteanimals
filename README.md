@@ -15,4 +15,5 @@ Please vote your favourite celebrity following lists
 - GACKT
 - 佐久間宣行
 - 二宮和也
+- 狩野英孝
 
