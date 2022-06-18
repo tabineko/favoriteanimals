@@ -20,7 +20,7 @@ To travel is a good way to get relax. Different cities may totally have differen
 
 # List of Cities
 Eg: Osaka
-１：
+１： Kanazawa
 ２：
 ３：
 ４：
