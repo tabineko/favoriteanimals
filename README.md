@@ -1,4 +1,4 @@
-# Attracting Contributors
+# Attracting Contributors - Motorcycle / Bicycle
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -15,9 +15,20 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project - (Favorite Motorcycle or Bicycle). 
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+Please help me with contributing of your favorite motorcycle or bicycle.
 
-# List of Hobby
+For example, write your favorite motorcycle that you would like to ride some day or you think it's just looking beautiful. For me it's "Honda CRF 250".
+If you don't like  motorcycles write about bicycles.
+If you don't like non of above, write "I like my feet more than wheels". LOL ))))
+If you want you can add a link to the motorcycle/bicycle picture near the model name.
+
+To do a contribution copy below "0." line and edit it to your favorite model (link isn't mandatory), then paste it to the last bottom line of this README file.
+
+0. Cross Motorcycle "Honda CRF250" https://www.honda.co.jp/CRF250RALLY/
+
+# I wonder if other people like 2 wheel transportation. So please help me !!!
+
+# List of Motorcycles / Bicycle 
+1.
