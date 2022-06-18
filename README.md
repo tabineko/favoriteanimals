@@ -19,7 +19,7 @@ To complete the assignment, please do the following:
 To travel is a good way to get relax. Different cities may totally have different cultures, experiences, etc. To get a general idea of some recommended cities. And now I am collecting which city is your favorite. Please leave your comments here. Both Japanese and English are ok!
 
 # List of Cities
-Eg: Osaka/大阪
+Eg: Osaka
 １：
 ２：
 ３：
