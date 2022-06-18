@@ -15,9 +15,18 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# City Recommendations
+To travel is a good way to get relax. Different cities may totally have different cultures, experiences, etc. To get a general idea of some recommended cities. And now I am collecting which city is your favorite. Please leave your comments here. Both Japanese and English are ok!
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Cities
+Eg: Osaka/大阪
+１：
+２：
+３：
+４：
+５：
+６：
+７：
+８：
+９：
+１０：
