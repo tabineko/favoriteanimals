@@ -41,3 +41,4 @@ To do a contribution copy below "0." line and edit it to your favorite model (li
 3. CYGNUS-X
 4. Cross Motorcycle "KAWASAKI Z900RS" https://www.kawasaki-motors.com/mc/lineup/z900rs/
 5. I know nothing about this field, but somehow interested nowaday.
+6. Honda CBR1000RR-R Fireblade SP
