@@ -42,3 +42,4 @@ To do a contribution copy below "0." line and edit it to your favorite model (li
 4. Cross Motorcycle "KAWASAKI Z900RS" https://www.kawasaki-motors.com/mc/lineup/z900rs/ </br>
 5. I know nothing about this field, but somehow interested nowaday. </br>
 6. Honda CBR1000RR-R Fireblade SP </br>
+7. SR400 </br>
