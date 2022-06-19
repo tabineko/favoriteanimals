@@ -24,7 +24,7 @@ Eg: Osaka
 １：Shibuya
 2: Kanazawa
 ３：Yamagata
-４：
+４： Ehime
 ５：
 ６：
 ７：
