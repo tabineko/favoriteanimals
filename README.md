@@ -29,5 +29,5 @@ Eg: Osaka
 6：Shanghai
 ７：Mie
 ８：Ikoma
-９：
+９： Fukuoka!
 １０：
