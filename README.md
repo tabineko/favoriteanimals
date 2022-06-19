@@ -25,4 +25,5 @@ Please tell me about your local foods. <br/>
 2. snow crab(Tottori)
 3. lemon(Hiroshima)
 4. nijiiro cafe (Nara)
+5. Kuroge wagyu(Kumamoto)
 
