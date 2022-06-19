@@ -18,6 +18,7 @@ To complete the assignment, please do the following:
 # Project
 Please tell me about your local foods. <br/>
 あなたの地元の特産品やご当地料理・スイーツなどを教えてください <br/>
-例：peanuts（Chiba） <br/>
+
 
 # List of lical foods
+1. peanuts（Chiba）
