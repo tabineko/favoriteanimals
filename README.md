@@ -25,7 +25,7 @@ Eg: Osaka
 2: Kanazawa
 ３：Yamagata
 ４： Ehime
-５：
+5：Shanghai
 ６：
 ７：
 ８：
