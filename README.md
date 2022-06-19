@@ -20,9 +20,10 @@ To travel is a good way to get relax. Different cities may totally have differen
 
 # List of Cities
 Eg: Osaka
+
 １：Shibuya
-２：
-３：
+2: Kanazawa
+３：Yamagata
 ４：
 ５：
 ６：
