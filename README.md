@@ -24,5 +24,5 @@ Please tell me about your local foods. <br/>
 1. peanuts（Chiba）
 2. snow crab(Tottori)
 3. lemon(Hiroshima)
-4. abc
-5. def
+4. nijiiro cafe (Nara)
+
