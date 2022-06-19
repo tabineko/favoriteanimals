@@ -21,4 +21,5 @@ Please tell me about your local foods. <br/>
 
 
 # List of lical foods
-1. peanuts (Chiba)
+1. peanuts（Chiba）
+2. snow crab(Tottori)
