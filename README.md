@@ -16,4 +16,3 @@ Please vote your favorite celebrity following lists
 - 佐久間宣行
 - 二宮和也
 - 半沢直樹
-
