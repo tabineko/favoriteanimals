@@ -38,5 +38,6 @@ To do a contribution copy below "0." line and edit it to your favorite model (li
 
 1.I like my feet more than wheels
 2. GiANT TCR ADVANCED 1 SE
-3. Cross Motorcycle "KAWASAKI Z900RS" https://www.kawasaki-motors.com/mc/lineup/z900rs/
+3. CYGNUS-X
+4. Cross Motorcycle "KAWASAKI Z900RS" https://www.kawasaki-motors.com/mc/lineup/z900rs/
 
