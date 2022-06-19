@@ -28,6 +28,6 @@ Eg: Osaka
 5： Ehime
 6：Shanghai
 ７：Mie
-８：
+８：Ikoma
 ９：
 １０：
