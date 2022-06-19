@@ -1,4 +1,8 @@
 # Attracting Contributors - Motorcycle / Bicycle
+![Image](https://github.com/ani-hovhannisyan/AttractingContributors-Motorcycle-Bicycle/blob/57e452235b531af1893f711de69d0675391fb3fe/CrossRoad_Motorcycle_Honda_CRF250L_Rally.jpg?raw=true)
+
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
