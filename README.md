@@ -16,8 +16,8 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Project
-Please tell me about your local specialty.
-あなたの地元の特産品やご当地料理・スイーツなどを教えてください
-例：peanuts（Chiba）
+Please tell me about your local specialty. <br/>
+あなたの地元の特産品やご当地料理・スイーツなどを教えてください <br/>
+例：peanuts（Chiba） <br/>
 
 # List of Hobby
