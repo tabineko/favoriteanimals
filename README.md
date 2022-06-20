@@ -19,3 +19,4 @@ Please vote your favorite celebrity following lists
 - 狩野英孝
 - 半沢直樹
 - Taylor Swift
+- Adele
