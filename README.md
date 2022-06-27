@@ -27,3 +27,5 @@ I'm collecting your favorit places in Japan. Where is your favorit place in Japa
 5. Wakayama
 6. USJ, Osaka
 7.  Kurashiki-Okayama
+8.   Osaka Namba
+
